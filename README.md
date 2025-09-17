@@ -11,7 +11,6 @@ In addition, the dataset will also be used for a clustering task, where patients
 Motivation:
 According to the World Health Organization (WHO), stroke is the second leading cause of death worldwide, accounting for about 11% of all deaths. This fact motivated us to choose the stroke prediction dataset, as strokes are a serious global health issue. Our team considered this topic both important 
 and interesting, making it a meaningful and engaging case study for our data mining project.
---------------------------------------
 Students Name:
 Noura Altuwiam
 Leen Almutairi
