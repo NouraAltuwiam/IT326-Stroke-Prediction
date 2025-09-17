@@ -1,6 +1,6 @@
 # IT326-Stroke-Prediction
 Data Mining Project - Stroke Prediction
----------------------------------------------
+--------------------------------------
 Description:
 In this data mining project, We want to predict whether a patient is likely to experience a stroke based on health-related attributes such as age, hypertension, heart disease, marital status, work type, residence type, average glucose level, BMI, and smoking status.
 
@@ -12,8 +12,7 @@ Motivation:
 According to the World Health Organization (WHO), stroke is the second leading cause of death worldwide, accounting for about 11% of all deaths. This fact motivated us to choose the stroke prediction dataset, as strokes are a serious global health issue. Our team considered this topic both important 
 and interesting, making it a meaningful and engaging case study for our data mining project.
 Students Name:
-Noura Altuwiam
-Leen Almutairi
-Juri Alzahem
-Lama Alhamed
-------------------------------------------
+Noura Altuwiam,
+Leen Almutairi,
+Juri Alzahem,
+Lama Alhamed,
